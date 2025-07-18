@@ -1,29 +1,41 @@
-# 👋 Hi, I'm Christian!
+# Hi, I'm Christian Hopper 👋
 
-I'm a Computer Science student and Software Engineer in training at [TripleTen](https://tripleten.com). I have a passion for building clean, creative, and useful digital experiences..
-
-## 💻 Skills
-
-- HTML / CSS  
-- JavaScript  
-- Git & GitHub  
-- VS Code  
-- Figma  
-- Responsive Web Design  
-- Project planning and teamwork
-
-## 📚 Background
-
-- 🎓 Currently studying Computer Science  
-- 💼 Training as a Software Engineer at TripleTen  
-- 🎮 Creative mind with big goals—I'm working toward making my own app or video game someday  
-- 🚀 Focused on writing clean code, building strong projects, and landing a tech role  
-
-## 🏆 Badges & Progress
-
-
+I’m a driven software engineer who loves building clean, user-friendly web apps. I enjoy solving problems with code and constantly learning new tools and techniques to improve.
 
 ---
 
-Thanks for checking out my profile!  
-Feel free to explore my projects or reach out. 😊
+## What Drives Me
+
+I’m passionate about creating intuitive, user-friendly experiences that make people’s lives easier or more fun. Currently, I’m diving deep into JavaScript projects that blend creativity with clean code. Outside coding, I enjoy sharpening my skills in object-oriented programming and experimenting with new tools to stay ahead in this fast-moving field.
+
+---
+
+## 🛠 Skills & Technologies
+
+- **Languages:** JavaScript (ES6+), Java, HTML5, CSS3  
+- **Tools & Libraries:** Webpack, Git & GitHub, REST APIs  
+- **Concepts:** Object-Oriented Programming, Responsive Design, Form Validation, Async/Await  
+
+---
+
+## 📂 Featured Projects
+
+### [Spots - Photo Sharing Web App](https://christian-hopper.github.io/se_project_spots)  
+A full-featured photo-sharing app with user profiles, card creation, likes, and modals. Built with vanilla JS, modular components, and REST API integration.  
+[Source Code](https://github.com/christian-hopper/se_project_spots)
+
+### [Simple To Do App](https://github.com/christian-hopper/simple-to-do-app)  
+A clean and simple to-do list application to help users manage their daily tasks efficiently.  
+[Source Code](https://christian-hopper.github.io/se_project_todo-app/)
+
+---
+
+## 📫 How to Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/christian-hopper-105085369/)  
+- [Email](hopperchristian@yahoo.com)  
+
+---
+
+Thanks for visiting my profile! 🚀  
+Feel free to connect or collaborate on projects.
