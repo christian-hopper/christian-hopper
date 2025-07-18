@@ -4,7 +4,7 @@ I’m a driven software engineer who loves building clean, user-friendly web app
 
 ---
 
-## What Drives Me
+## 🔥 What Drives Me
 
 I’m passionate about creating intuitive, user-friendly experiences that make people’s lives easier or more fun. Currently, I’m diving deep into JavaScript projects that blend creativity with clean code. Outside coding, I enjoy sharpening my skills in object-oriented programming and experimenting with new tools to stay ahead in this fast-moving field.
 
@@ -24,9 +24,9 @@ I’m passionate about creating intuitive, user-friendly experiences that make p
 A full-featured photo-sharing app with user profiles, card creation, likes, and modals. Built with vanilla JS, modular components, and REST API integration.  
 [Source Code](https://github.com/christian-hopper/se_project_spots)
 
-### [Simple To Do App](https://github.com/christian-hopper/simple-to-do-app)  
+### [Simple To Do App](https://christian-hopper.github.io/se_project_todo-app/)  
 A clean and simple to-do list application to help users manage their daily tasks efficiently.  
-[Source Code](https://christian-hopper.github.io/se_project_todo-app/)
+[Source Code](https://github.com/christian-hopper/se_project_todo-app)
 
 ---
 
