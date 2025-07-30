@@ -13,7 +13,7 @@ I’m passionate about creating intuitive, user-friendly experiences that make p
 ## 🛠 Skills & Technologies
 
 - **Languages:** JavaScript (ES6+), Java, HTML5, CSS3  
-- **Tools & Libraries:** Webpack, Git & GitHub, REST APIs  
+- **Tools & Libraries:** Webpack, React, Git & GitHub, REST APIs  
 - **Concepts:** Object-Oriented Programming, Responsive Design, Form Validation, Async/Await  
 
 ---
