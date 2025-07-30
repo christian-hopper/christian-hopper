@@ -20,6 +20,10 @@ I’m passionate about creating intuitive, user-friendly experiences that make p
 
 ## 📂 Featured Projects
 
+### [WTWR - What to Wear?](https://christian-hopper.github.io/se_project_react)
+A weather-based outfit recommendation app built with React. WTWR fetches real-time weather data and suggests clothing items tailored to the current conditions. Users can view temperature in °F/°C, add new garments, and preview items in responsive modals. Designed with accessibility and mobile-first principles, the app features a smooth user interface, dynamic filtering, and modular components.
+[Source Code](https://github.com/christian-hopper/se_project_react)
+
 ### [Spots - Photo Sharing Web App](https://christian-hopper.github.io/se_project_spots)  
 A full-featured photo-sharing app with user profiles, card creation, likes, and modals. Built with vanilla JS, modular components, and REST API integration.  
 [Source Code](https://github.com/christian-hopper/se_project_spots)
