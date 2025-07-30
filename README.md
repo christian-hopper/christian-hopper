@@ -27,10 +27,12 @@ A weather-based outfit recommendation app built with React. WTWR fetches real-ti
 
 ### [Spots - Photo Sharing Web App](https://christian-hopper.github.io/se_project_spots)  
 A full-featured photo-sharing app with user profiles, card creation, likes, and modals. Built with vanilla JS, modular components, and REST API integration.  
+
 [Source Code](https://github.com/christian-hopper/se_project_spots)
 
 ### [Simple To Do App](https://christian-hopper.github.io/se_project_todo-app/)  
 A clean and simple to-do list application to help users manage their daily tasks efficiently.  
+
 [Source Code](https://github.com/christian-hopper/se_project_todo-app)
 
 ---
