@@ -10,7 +10,7 @@ I’m actively seeking **Software Engineer / Frontend Developer / Backend Develo
 
 ## 🔗 Connect With Me
 - **Email:** hopperchristian@yahoo.com  
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/christian-hopper-105085369/)  
+- **LinkedIn:** [Christian Hopper](https://www.linkedin.com/in/christian-hopper-105085369/)  
 - **Location:** Jurupa Valley, CA (Open to Relocation)
 
 ---
