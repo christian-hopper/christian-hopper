@@ -92,7 +92,7 @@ Full-stack weather-based outfit recommendation platform built with React, Node.j
 
 **Links**
 
-- Repository: [WTWR_Repo](https://github.com/christian-hopper/se_project_react)
+- Repository: [WTWR Repo](https://github.com/christian-hopper/se_project_react)
 - Live Demo: [WTWR Demo](https://christian-hopper.github.io/se_project_react/)
 
 ---
