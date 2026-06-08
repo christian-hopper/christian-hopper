@@ -173,9 +173,9 @@ Building Hopp Digital has given me hands-on experience delivering software solut
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=christian-hopper&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=christian-hopper&show_icons=true&theme=tokyonight&hide_border=true" alt="Christian Hopper GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-hopper&layout=compact&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-hopper&layout=compact&theme=tokyonight&hide_border=true" alt="Christian Hopper Top Languages" />
 
 </div>
 
