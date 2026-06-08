@@ -7,15 +7,15 @@
 <br/>
 
 <p>
-  <a href="[LINKEDIN](https://www.linkedin.com/in/christian-hopper-105085369/)">
+  <a href="https://www.linkedin.com/in/christian-hopper-105085369/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin">
   </a>
 
-  <a href="[PORTFOLIO](https://christian-hopper.github.io/christian-portfolio/)">
+  <a href="https://christian-hopper.github.io/christian-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel">
   </a>
 
-  <a href="[HOPP DIGITAL](#)">
+  <a href="#">
     <img src="https://img.shields.io/badge/Hopp%20Digital-Agency-blueviolet?style=for-the-badge">
   </a>
 
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=christian-hopper&style=for-the-badge&color=blue" />
 
 </div>
 
@@ -173,9 +173,9 @@ Building Hopp Digital has given me hands-on experience delivering software solut
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=christian-hopper&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-hopper&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -185,7 +185,7 @@ Building Hopp Digital has given me hands-on experience delivering software solut
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=christian-hopper&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -195,7 +195,7 @@ Building Hopp Digital has given me hands-on experience delivering software solut
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=christian-hopper&theme=github-compact&hide_border=true" />
 
 </div>
 
@@ -215,15 +215,15 @@ Building Hopp Digital has given me hands-on experience delivering software solut
 
 <p align="center">
 
-<a href="[LINKEDIN](https://www.linkedin.com/in/christian-hopper-105085369/)">
+<a href="https://www.linkedin.com/in/christian-hopper-105085369/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="[PORTFOLIO](https://christian-hopper.github.io/christian-portfolio/)">
+<a href="https://christian-hopper.github.io/christian-portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
 </a>
 
-<a href="[HOPP DIGITAL](#)">
+<a href="#">
 <img src="https://img.shields.io/badge/Hopp%20Digital-Website-purple?style=for-the-badge">
 </a>
 
@@ -253,6 +253,6 @@ Building software. Solving problems. Shipping products.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/christian-hopper/christian-hopper/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
