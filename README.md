@@ -1,150 +1,258 @@
-# 💻 Christian Hopper — Full Stack Software Engineer
-**JavaScript • React • Node.js • REST APIs • Frontend & Backend Development**
+<div align="center">
 
-Welcome! I'm Christian — a full stack developer who loves building **clean, responsive, accessible, user-centered applications**.  
-I specialize in modern JavaScript, React interfaces, API-driven functionality, and backend services that deliver real-world value.
+# Christian Hopper
 
-I’m actively seeking **Software Engineer / Frontend Developer / Backend Developer** roles where I can contribute, grow, and build technology that matters.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Software+Engineer;Founder+of+Hopp+Digital;Building+Modern+Web+Applications;Creating+Software+for+Real+Businesses;React+%7C+TypeScript+%7C+Node.js" alt="Typing SVG" />
 
----
+<br/>
 
-## 🔗 Connect With Me
-- **Email:** hopperchristian@yahoo.com  
-- **LinkedIn:** [Christian Hopper](https://www.linkedin.com/in/christian-hopper-105085369/)  
-- **Location:** Jurupa Valley, CA (Open to Relocation)
+<p>
+  <a href="[LINKEDIN](https://www.linkedin.com/in/christian-hopper-105085369/)">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin">
+  </a>
 
----
+  <a href="[PORTFOLIO](https://christian-hopper.github.io/christian-portfolio/)">
+    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel">
+  </a>
 
-## 🚀 About Me
-I’m a full stack software engineer with hands-on experience building production-ready applications using **React, Node.js, Express, and REST APIs**.  
-I focus heavily on:
+  <a href="[HOPP DIGITAL](#)">
+    <img src="https://img.shields.io/badge/Hopp%20Digital-Agency-blueviolet?style=for-the-badge">
+  </a>
 
-- **User experience & responsive design**
-- **Clean, maintainable code**
-- **Reusable component architecture**
-- **Integration with external/internal APIs**
-- **Debugging and problem-solving**
-- **Writing applications that solve real problems**
+  <a href="mailto:hopperchristian@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
-My background in hospitality (5+ years) strengthens my communication, adaptability, and teamwork — skills that translate directly into effective engineering collaboration.
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
 
----
-
-## 🛠️ Technical Skills
-
-### **Languages & Frameworks**
-- JavaScript  
-- React.js  
-- Node.js  
-- Express  
-- HTML5  
-- CSS3  
-
-### **Tools & Technologies**
-- Git & GitHub  
-- Webpack  
-- Vite  
-- REST APIs  
-- Postman  
-- MongoDB  
-
-### **Core Engineering Skills**
-- API Integration  
-- DOM Manipulation  
-- Responsive/Mobile-First Design  
-- UX/UI Principles  
-- Object-Oriented Programming (OOP)  
-- Debugging  
-- Accessibility (A11y)  
-- Agile Collaboration  
-
-### **Soft Skills**
-Communication • Adaptability • Collaboration • Problem Solving • Critical Thinking
+</div>
 
 ---
 
-# ⭐ Highlighted Projects
+# About Me
 
-## 🧥 WTWR – What to Wear?
-**Full-Stack Weather-Based Outfit Recommendation App**  
-🔗 **[Frontend GitHub](https://github.com/christian-hopper/se_project_react)** | 🔗 **[Backend GitHub](https://github.com/christian-hopper/se_project_express)** | 🔗 **[Demo](https://christian-hopper.github.io/se_project_react/)**
+I'm a **Full Stack Software Engineer** based in California and the founder of **Hopp Digital**.
 
-**Users get outfit suggestions based on real-time weather.**
+I build modern web applications and business websites that solve real problems for real users.
 
-**Key Contributions:**  
-- Built full stack app with **React frontend** + **Node.js/Express backend**  
-- Designed and implemented a full **REST API** for user auth and clothing CRUD  
-- Integrated **MongoDB** for persistent user accounts & saved items  
-- Implemented **token-based authentication**, route protection, and validation  
-- Built responsive UI with **modals, animations, and image previews**  
-- Applied accessibility best practices  
+My work spans everything from frontend architecture and user experience to backend APIs, databases, deployment, and long-term maintenance.
 
-**Tech:** React, Node.js, Express, MongoDB, JavaScript, Vite, CSS, REST API
+Over the years I've:
 
----
+- Built and launched multiple production websites for local businesses
+- Worked directly with business owners to gather requirements
+- Maintained customer-facing applications used by real clients
+- Designed and developed full-stack software solutions
+- Managed long-term website support and feature enhancements
 
-## 📈 Ascent
-**Habit Tracking, Journaling, & Analytics Application**  
-🔗 **[GitHub](https://github.com/christian-hopper/ascent-frontend)** | 🔗 **[Demo](https://christian-hopper.github.io/ascent-frontend/)**
-
-Helps users build habits, reflect daily, and visualize long-term growth.
-
-**Key Contributions:**  
-- Built multi-page **React app** with habit creator, streak tracker, & goal system  
-- Implemented journaling with moods, prompts, and localStorage persistence  
-- Integrated motivational quote API  
-- Created **Insights dashboard** with Chart.js analytics  
-- Designed reusable components and responsive layouts  
-
-**Tech:** React, JavaScript, Chart.js, CSS, API Integration
+I enjoy building products that combine strong engineering practices with thoughtful user experience.
 
 ---
 
-## 📸 Spots
-**Dynamic Photo-Sharing Application**  
-🔗 **[GitHub](https://github.com/christian-hopper/se_project_spots)** | 🔗 **[Demo](https://christian-hopper.github.io/se_project_spots/)**
+# Tech Stack
 
-**Users can create, edit, and interact with posts in real time.**
+## Frontend
 
-**Key Contributions:**  
-- Built full interactive front-end with **JavaScript/HTML/CSS**  
-- Integrated APIs for fetching, posting, and deleting content  
-- Implemented real-time DOM updates and form validation  
-- Designed mobile-responsive UI for smooth UX  
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite" />
+</p>
 
-**Tech:** JavaScript, HTML, CSS, REST API
+## Backend
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-## 📝 Simple To-Do App
-🔗 **[GitHub](https://github.com/christian-hopper/se_project_todo-app)** | 🔗 **[Demo](https://christian-hopper.github.io/se_project_todo-app/)**
+## Tools
 
-Lightweight, minimal task management tool.
-
-**Key Features:**  
-- Add, complete, delete tasks using DOM manipulation  
-- Keyboard-accessible interactions  
-- Simple, intuitive UI  
-
-**Tech:** JavaScript, HTML, CSS
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,jest,vscode" />
+</p>
 
 ---
 
-# 🌱 Currently Learning
-- Advanced React patterns  
-- TypeScript  
-- Backend testing (Jest + Supertest)  
-- Deployment workflows (Render, Vercel, Netlify)
+# Featured Projects
+
+## WTWR (What To Wear)
+
+Full-stack weather-based outfit recommendation platform built with React, Node.js, Express, MongoDB, and external APIs.
+
+### Highlights
+
+- Secure authentication workflows
+- CRUD operations
+- REST API integration
+- MongoDB data persistence
+- Production-ready application architecture
+
+**Tech Used**
+
+`React` `Node.js` `Express` `MongoDB` `JavaScript`
+
+**Links**
+
+- Repository: [WTWR_Repo](https://github.com/christian-hopper/se_project_react)
+- Live Demo: [WTWR Demo](https://christian-hopper.github.io/se_project_react/)
 
 ---
 
-# 🎯 Career Goals
-- Grow into a **full-time Software Engineer** role  
-- Build scalable apps used by real users  
-- Continue expanding full stack expertise  
-- Contribute to a collaborative engineering-driven team  
+## Ascent
+
+A personal growth platform focused on helping users build better habits, track goals, and visualize progress over time.
+
+### Highlights
+
+- Goal tracking
+- Habit building
+- Mood tracking
+- Analytics dashboards
+- Data visualization
+- Component-driven architecture
+
+**Tech Used**
+
+`React`
+`TypeScript`
+`Chart.js`
+
+**Links**
+
+- Repository: [Ascent Repo](https://github.com/christian-hopper/ascent-frontend)
+- Live Demo: [Ascent Demo](https://christian-hopper.github.io/ascent-frontend/)
 
 ---
 
-# 🙌 Thanks for Visiting!
-If my work aligns with what you’re looking for, feel free to reach out — I’d love to connect!
+## Premium Luxury Barbershop Website
+
+A production-quality business website designed to help service-based businesses convert visitors into customers.
+
+### Highlights
+
+- Responsive design
+- Mobile-first development
+- Performance optimization
+- Conversion-focused UX
+- Modern animations
+- Client-facing production deployment
+
+**Tech Used**
+
+`React`
+`TypeScript`
+`Vite`
+`CSS`
+
+**Links**
+
+- Repository: [Fade Masters Barbershop Repo](https://github.com/christian-hopper/fade-masters-barbershop)
+- Live Demo: [Fade Masters Barbershop Demo](https://christian-hopper.github.io/fade-masters-barbershop/)
+
+---
+
+# Hopp Digital
+
+### Building Modern Websites For Local Businesses
+
+Hopp Digital is a web design and development company focused on helping local businesses establish a strong online presence through modern, high-performance websites.
+
+My work includes:
+
+- Custom website development
+- Responsive design
+- Performance optimization
+- Business-focused UX
+- Ongoing website maintenance
+- Technical consulting
+
+Building Hopp Digital has given me hands-on experience delivering software solutions directly to clients and managing projects from concept to launch.
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+# GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" />
+
+</div>
+
+---
+
+# Currently Focused On
+
+- Building full-stack React applications
+- Growing Hopp Digital
+- Developing production-ready software
+- Improving system design and architecture
+- Creating better user experiences
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="[LINKEDIN](https://www.linkedin.com/in/christian-hopper-105085369/)">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="[PORTFOLIO](https://christian-hopper.github.io/christian-portfolio/)">
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
+</a>
+
+<a href="[HOPP DIGITAL](#)">
+<img src="https://img.shields.io/badge/Hopp%20Digital-Website-purple?style=for-the-badge">
+</a>
+
+<a href="mailto:hopperchristian@yahoo.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+---
+
+# Let's Build Something Great
+
+Whether you're a recruiter, engineering leader, startup founder, or business owner, I'm always interested in discussing new opportunities, interesting technical challenges, and impactful products.
+
+---
+
+<div align="center">
+
+### Thanks for visiting.
+
+Building software. Solving problems. Shipping products.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
