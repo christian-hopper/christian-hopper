@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel">
   </a>
 
-  <a href="#">
+  <a href="https://www.hoppdigitalstudio.com">
     <img src="https://img.shields.io/badge/Hopp%20Digital-Agency-blueviolet?style=for-the-badge">
   </a>
 
