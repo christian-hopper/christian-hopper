@@ -11,10 +11,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin">
   </a>
 
-  <a href="https://christian-hopper.github.io/christian-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel">
-  </a>
-
   <a href="https://www.hoppdigitalstudio.com">
     <img src="https://img.shields.io/badge/Hopp%20Digital-Agency-blueviolet?style=for-the-badge">
   </a>
@@ -219,11 +215,7 @@ Building Hopp Digital has given me hands-on experience delivering software solut
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://christian-hopper.github.io/christian-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
-</a>
-
-<a href="#">
+<a href="https://www.hoppdigitalstudio.com">
 <img src="https://img.shields.io/badge/Hopp%20Digital-Website-purple?style=for-the-badge">
 </a>
 
